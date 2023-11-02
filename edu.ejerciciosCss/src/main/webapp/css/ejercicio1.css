@@ -1,0 +1,22 @@
+p{
+	text-align: center;
+	color:blue;
+}
+
+span{
+	color:red;
+}
+
+.p2{
+	background-color: silver;
+}
+
+.p3{
+	text-align: right;
+}
+
+body{
+	background-color: aqua;
+	font-family:verdana;
+	font-size:20px;
+}
