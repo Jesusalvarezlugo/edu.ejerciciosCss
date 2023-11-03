@@ -21,7 +21,12 @@ a{
     text-decoration:none;
     
 }
+
+a:hover{
+	color:black;
+}
 ul{
+	
     list-style-type:none;
     
 }
