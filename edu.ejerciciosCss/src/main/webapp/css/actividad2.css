@@ -1,0 +1,35 @@
+.Principal{
+    background-color:gray;
+    border-style:solid;
+    border-color:red;
+    max-width: 950px;
+    
+}
+
+h2{
+    font-family:verdana;
+    color:red;
+   
+}
+h3{
+    font-size:3em;
+    margin-bottom: 0.5em;
+}
+a{
+    color:blue;
+    
+    text-decoration:none;
+    
+}
+ul{
+    list-style-type:none;
+    
+}
+li{
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+}
+p{
+    color:white;
+}
