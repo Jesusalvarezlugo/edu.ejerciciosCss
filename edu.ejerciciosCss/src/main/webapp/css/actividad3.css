@@ -1,0 +1,12 @@
+.cuadrado{
+   /*cuadrado*/
+   width:200px;
+   height:200px;
+   margin:4rem;
+   background-color: blue;
+   padding: 1rem blue;
+   box-shadow: -20px -25px green,
+    -40px -45px red;
+
+}
+
